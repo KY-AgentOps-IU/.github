@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KY-AgentOps-IU/.github/main/profile/assets/hero-banner.svg" width="100%" alt="KY AgentOps-IU Hero Banner">
+<img src="https://raw.githubusercontent.com/KY-AgentOps-IU/.github/main/profile/assets/hero-banner.png" width="100%" alt="KY AgentOps-IU Hero Banner">
 
 # KY AgentOps-IU
 
