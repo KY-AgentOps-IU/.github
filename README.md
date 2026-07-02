@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KY-AgentOps-IU/.github/main/profile/assets/hero-banner.png" width="100%" alt="KY AgentOps-IU Hero Banner">
-
 # KY AgentOps-IU
 
 ### AgentOps Improvement Unit 기반 AI Agent 산출물 공유 허브
