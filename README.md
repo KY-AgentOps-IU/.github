@@ -5,11 +5,6 @@
 ### 🚀 AgentOps Improvement Unit (IU)
 
 **Growing AI Agents through Continuous Learning, Deployment, Evaluation, and Improvement**
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Research](https://img.shields.io/badge/research-AgentOps-purple.svg)]()
-
 </div>
 
 ---
